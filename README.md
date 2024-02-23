@@ -1,6 +1,8 @@
 # Dynamicformusingangular17
 
-![Uploading image.png…]()
+![image](https://github.com/LasindaDilshan/dynamicformusingangular17/assets/32431966/6b557006-0e38-4d01-b790-35180c5a3e6c)
+
+This Project includes Standalone Dynamic Labels , inputs , dropdown aswell as their corresponding validators .
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
